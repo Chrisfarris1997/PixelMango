@@ -17,4 +17,4 @@ To quickly get started with PixelMango, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/pixelmango.git
+   git clone https://github.com/Chrisfarris1997/pixelmango.git
